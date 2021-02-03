@@ -7,3 +7,4 @@
 
 #My own ideas:
 - add informative and clear titles/ headings and document descriptions
+- agree on the items to igonore in .gitignore
